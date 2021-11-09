@@ -1,0 +1,6 @@
+n=input()
+b=input()
+c=input()
+maxValue = max(n,b,c)
+minValue = min(n,b,c)
+print("Найбільше число:",maxValue, "Найменше число:",minValue)
